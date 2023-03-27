@@ -1,0 +1,48 @@
+Cabin 1
+     Passenger 1-  First Name: a  Last Name: s  Expenses: 1.0
+     Passenger 2-  First Name: a  Last Name: s  Expenses: 1.0
+     Passenger 3- Empty
+Cabin 2
+     Passenger 1-  First Name: a  Last Name: s  Expenses: 3.0
+     Passenger 2-  First Name: e  Last Name: f  Expenses: 5.0
+     Passenger 3- Empty
+Cabin 3
+     Passenger 1-  First Name: z  Last Name: x  Expenses: 4.0
+     Passenger 2- Empty
+     Passenger 3- Empty
+Cabin 4
+     Passenger 1-  First Name: c  Last Name: v  Expenses: 5.0
+     Passenger 2- Empty
+     Passenger 3- Empty
+Cabin 5
+     Passenger 1-  First Name: v  Last Name: b  Expenses: 6.0
+     Passenger 2- Empty
+     Passenger 3- Empty
+Cabin 6
+     Passenger 1-  First Name: b  Last Name: n  Expenses: 7.0
+     Passenger 2- Empty
+     Passenger 3- Empty
+Cabin 7
+     Passenger 1-  First Name: n  Last Name: m  Expenses: 8.0
+     Passenger 2- Empty
+     Passenger 3- Empty
+Cabin 8
+     Passenger 1-  First Name: k  Last Name: l  Expenses: 9.0
+     Passenger 2- Empty
+     Passenger 3- Empty
+Cabin 9
+     Passenger 1-  First Name: a  Last Name: s  Expenses: 1.0
+     Passenger 2- Empty
+     Passenger 3- Empty
+Cabin 10
+     Passenger 1-  First Name: q  Last Name: w  Expenses: 11.0
+     Passenger 2- Empty
+     Passenger 3- Empty
+Cabin 11
+     Passenger 1-  First Name: r  Last Name: t  Expenses: 12.0
+     Passenger 2- Empty
+     Passenger 3- Empty
+Cabin 12
+     Passenger 1-  First Name: y  Last Name: u  Expenses: 56.0
+     Passenger 2- Empty
+     Passenger 3- Empty
